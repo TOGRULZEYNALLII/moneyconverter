@@ -1,0 +1,56 @@
+{
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "United States Dollar",
+      "symbol": "$",
+      "rate": "1"
+    },
+    {
+      "code": "AZN",
+      "name": "Manat",
+      "symbol": "€",
+      "rate": "1.7"
+    },
+    {
+      "code": "JPY",
+      "name": "Japanese Yen",
+      "symbol": "¥"
+    },
+    {
+      "code": "GBP",
+      "name": "British Pound",
+      "symbol": "£"
+    },
+    {
+      "code": "AUD",
+      "name": "Australian Dollar",
+      "symbol": "$"
+    },
+    {
+      "code": "CAD",
+      "name": "Canadian Dollar",
+      "symbol": "$"
+    },
+    {
+      "code": "CHF",
+      "name": "Swiss Franc",
+      "symbol": "CHF"
+    },
+    {
+      "code": "CNY",
+      "name": "Chinese Yuan",
+      "symbol": "¥"
+    },
+    {
+      "code": "SEK",
+      "name": "Swedish Krona",
+      "symbol": "kr"
+    },
+    {
+      "code": "NZD",
+      "name": "New Zealand Dollar",
+      "symbol": "$"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(34, 101, 101);
+  color: white;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  gap: 20px;
+}
+.containermoney1 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.input {
+  background-color: white;
+  width: 90px;
+  color: black;
+  border-radius: 5px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button-main {
+  background-color: aliceblue;
+  color: black;
+  border-radius: 10px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.button-main:hover {
+  background-color: orange;
+  transition: ease-in-out 0.3s;
+}
